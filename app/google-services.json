@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "767166822913",
+    "project_id": "mobil-final-fd5f3",
+    "storage_bucket": "mobil-final-fd5f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767166822913:android:c7d7797372864a73e59e00",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3RZrAPCYxc6FoUhMXGGfUf20DSAaPayM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767166822913:android:7260fd53141736e5e59e00",
+        "android_client_info": {
+          "package_name": "gen.tr.greenrock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3RZrAPCYxc6FoUhMXGGfUf20DSAaPayM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
