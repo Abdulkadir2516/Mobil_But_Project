@@ -95,7 +95,7 @@ public class Signup_page extends AppCompatActivity {
                                 mData.put("isim", name);
                                 mData.put("soyisim", surname);
                                 mData.put("mail", mail);
-                                mData.put("sifre", md5(sifre));
+                                mData.put("sifre", sifre);
                                 mData.put("Kullanıcı_id", MUser.getUid());
 
 
@@ -156,5 +156,7 @@ public class Signup_page extends AppCompatActivity {
             throw new RuntimeException(e);
         }
     }
+
+
 
 }
